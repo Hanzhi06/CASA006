@@ -1,161 +1,161 @@
-﻿country,age,population,gender,year
-China,0-4,  39 707,male,2021
-China,5-9,  48 525,male,2021
-China,10-14,  46 723,male,2021
-China,15-19,  42 898,male,2021
-China,20-24,  43 609,male,2021
-China,25-29,  49 242,male,2021
-China,30-34,  64 179,male,2021
-China,35-39,  55 289,male,2021
-China,40-44,  47 932,male,2021
-China,45-49,  56 169,male,2021
-China,50-54,  60 905,male,2021
-China,55-59,  53 580,male,2021
-China,60-64,  34 365,male,2021
-China,65-69,  35 227,male,2021
-China,70-74,  23 276,male,2021
-China,75-79,  13 510,male,2021
-China,80-84,  8 086,male,2021
-China,85-89,  3 721,male,2021
-China,90-94,   992,male,2021
-China,95+,   118,male,2021
-China,0-4,  35 082,female,2021
-China,5-9,  41 983,female,2021
-China,10-14,  39 907,female,2021
-China,15-19,  36 610,female,2021
-China,20-24,  37 632,female,2021
-China,25-29,  43 545,female,2021
-China,30-34,  58 625,female,2021
-China,35-39,  51 884,female,2021
-China,40-44,  45 693,female,2021
-China,45-49,  54 349,female,2021
-China,50-54,  60 091,female,2021
-China,55-59,  54 039,female,2021
-China,60-64,  35 829,female,2021
-China,65-69,  38 993,female,2021
-China,70-74,  26 887,female,2021
-China,75-79,  16 421,female,2021
-China,80-84,  11 068,female,2021
-China,85-89,  6 378,female,2021
-China,90-94,  2 324,female,2021
-China,95+,   503,female,2021
-Japan,0-4,  2 192,male,2021
-Japan,5-9,  2 568,male,2021
-Japan,10-14,  2 743,male,2021
-Japan,15-19,  2 866,male,2021
-Japan,20-24,  3 086,male,2021
-Japan,25-29,  3 117,male,2021
-Japan,30-34,  3 272,male,2021
-Japan,35-39,  3 579,male,2021
-Japan,40-44,  4 091,male,2021
-Japan,45-49,  4 865,male,2021
-Japan,50-54,  4 446,male,2021
-Japan,55-59,  3 929,male,2021
-Japan,60-64,  3 623,male,2021
-Japan,65-69,  3 776,male,2021
-Japan,70-74,  4 564,male,2021
-Japan,75-79,  3 184,male,2021
-Japan,80-84,  2 425,male,2021
-Japan,85-89,  1 469,male,2021
-Japan,90-94,   609,male,2021
-Japan,95+,   163,male,2021
-Japan,0-4,  2 095,female,2021
-Japan,5-9,  2 454,female,2021
-Japan,10-14,  2 620,female,2021
-Japan,15-19,  2 736,female,2021
-Japan,20-24,  2 950,female,2021
-Japan,25-29,  2 972,female,2021
-Japan,30-34,  3 132,female,2021
-Japan,35-39,  3 465,female,2021
-Japan,40-44,  3 975,female,2021
-Japan,45-49,  4 749,female,2021
-Japan,50-54,  4 387,female,2021
-Japan,55-59,  3 906,female,2021
-Japan,60-64,  3 677,female,2021
-Japan,65-69,  3 980,female,2021
-Japan,70-74,  5 058,female,2021
-Japan,75-79,  3 875,female,2021
-Japan,80-84,  3 304,female,2021
-Japan,85-89,  2 554,female,2021
-Japan,90-94,  1 468,female,2021
-Japan,95+,   690,female,2021
-United Kingdom,0-4,  1 874,male,2021
-United Kingdom,5-9,  2 105,male,2021
-United Kingdom,10-14,  2 114,male,2021
-United Kingdom,15-19,  1 925,male,2021
-United Kingdom,20-24,  2 074,male,2021
-United Kingdom,25-29,  2 271,male,2021
-United Kingdom,30-34,  2 286,male,2021
-United Kingdom,35-39,  2 187,male,2021
-United Kingdom,40-44,  2 079,male,2021
-United Kingdom,45-49,  2 062,male,2021
-United Kingdom,50-54,  2 251,male,2021
-United Kingdom,55-59,  2 235,male,2021
-United Kingdom,60-64,  1 944,male,2021
-United Kingdom,65-69,  1 642,male,2021
-United Kingdom,70-74,  1 592,male,2021
-United Kingdom,75-79,  1 182,male,2021
-United Kingdom,80-84,   758,male,2021
-United Kingdom,85-89,   436,male,2021
-United Kingdom,90-94,   175,male,2021
-United Kingdom,95+,   44,male,2021
-United Kingdom,0-4,  1 778,male,2021
-United Kingdom,5-9,  2 001,female,2021
-United Kingdom,10-14,  2 010,female,2021
-United Kingdom,15-19,  1 826,female,2021
-United Kingdom,20-24,  1 957,female,2021
-United Kingdom,25-29,  2 170,female,2021
-United Kingdom,30-34,  2 266,female,2021
-United Kingdom,35-39,  2 230,female,2021
-United Kingdom,40-44,  2 113,female,2021
-United Kingdom,45-49,  2 111,female,2021
-United Kingdom,50-54,  2 330,female,2021
-United Kingdom,55-59,  2 323,female,2021
-United Kingdom,60-64,  2 030,female,2021
-United Kingdom,65-69,  1 752,female,2021
-United Kingdom,70-74,  1 744,female,2021
-United Kingdom,75-79,  1 361,female,2021
-United Kingdom,80-84,   964,female,2021
-United Kingdom,85-89,   638,female,2021
-United Kingdom,90-94,   319,female,2021
-United Kingdom,95+,   120,female,2021
-United States,0-4,  9 798,male,2021
-United States,5-9,  10 509,male,2021
-United States,10-14,  11 150,male,2021
-United States,15-19,  11 264,male,2021
-United States,20-24,  11 222,male,2021
-United States,25-29,  11 634,male,2021
-United States,30-34,  11 835,male,2021
-United States,35-39,  11 378,male,2021
-United States,40-44,  10 799,male,2021
-United States,45-49,  10 184,male,2021
-United States,50-54,  10 668,male,2021
-United States,55-59,  10 696,male,2021
-United States,60-64,  10 380,male,2021
-United States,65-69,  8 950,male,2021
-United States,70-74,  6 729,male,2021
-United States,75-79,  4 527,male,2021
-United States,80-84,  2 788,male,2021
-United States,85-89,  1 562,male,2021
-United States,90-94,   695,male,2021
-United States,95+,   177,male,2021
-United States,0-4,  9 367,male,2021
-United States,5-9,  10 040,male,2021
-United States,10-14,  10 615,male,2021
-United States,15-19,  10 781,male,2021
-United States,20-24,  10 798,male,2021
-United States,25-29,  11 270,male,2021
-United States,30-34,  11 581,male,2021
-United States,35-39,  11 135,male,2021
-United States,40-44,  10 719,male,2021
-United States,45-49,  10 200,male,2021
-United States,50-54,  10 719,male,2021
-United States,55-59,  11 099,male,2021
-United States,60-64,  10 950,male,2021
-United States,65-69,  9 819,male,2021
-United States,70-74,  7 844,male,2021
-United States,75-79,  5 522,male,2021
-United States,80-84,  3 656,male,2021
-United States,85-89,  2 390,male,2021
-United States,90-94,  1 144,male,2021
-United States,95+,   406,male,2021
+﻿country,age,population,gender,year,
+China,0-4,39707,male,2021,
+China,5-9,48525,male,2021,
+China,10-14,46723,male,2021,
+China,15-19,42898,male,2021,
+China,20-24,43609,male,2021,
+China,25-29,49242,male,2021,
+China,30-34,64179,male,2021,
+China,35-39,55289,male,2021,
+China,40-44,47932,male,2021,
+China,45-49,56169,male,2021,
+China,50-54,60905,male,2021,
+China,55-59,53580,male,2021,
+China,60-64,34365,male,2021,
+China,65-69,35227,male,2021,
+China,70-74,23276,male,2021,
+China,75-79,13510,male,2021,
+China,80-84,8086,male,2021,
+China,85-89,3721,male,2021,
+China,90-94,992,male,2021,
+China,95+,118,male,2021,
+China,0-4,35082,female,2021,
+China,5-9,41983,female,2021,
+China,10-14,39906,female,2021,
+China,15-19,36610,female,2021,
+China,20-24,37632,female,2021,
+China,25-29,43545,female,2021,
+China,30-34,58624,female,2021,
+China,35-39,51884,female,2021,
+China,40-44,45692,female,2021,
+China,45-49,54348,female,2021,
+China,50-54,60090,female,2021,
+China,55-59,54038,female,2021,
+China,60-64,35829,female,2021,
+China,65-69,38993,female,2021,
+China,70-74,26887,female,2021,
+China,75-79,16420,female,2021,
+China,80-84,11067,female,2021,
+China,85-89,6377,female,2021,
+China,90-94,2323,female,2021,
+China,95+,503,female,2021,
+Japan,0-4,2191,male,2021,
+Japan,5-9,2568,male,2021,
+Japan,10-14,2743,male,2021,
+Japan,15-19,2865,male,2021,
+Japan,20-24,3085,male,2021,
+Japan,25-29,3117,male,2021,
+Japan,30-34,3271,male,2021,
+Japan,35-39,3578,male,2021,
+Japan,40-44,4090,male,2021,
+Japan,45-49,4864,male,2021,
+Japan,50-54,4446,male,2021,
+Japan,55-59,3929,male,2021,
+Japan,60-64,3623,male,2021,
+Japan,65-69,3776,male,2021,
+Japan,70-74,4564,male,2021,
+Japan,75-79,3183,male,2021,
+Japan,80-84,2424,male,2021,
+Japan,85-89,1469,male,2021,
+Japan,90-94,609,male,2021,
+Japan,95+,163,male,2021,
+Japan,0-4,2094,female,2021,
+Japan,5-9,2453,female,2021,
+Japan,10-14,2619,female,2021,
+Japan,15-19,2736,female,2021,
+Japan,20-24,2950,female,2021,
+Japan,25-29,2972,female,2021,
+Japan,30-34,3131,female,2021,
+Japan,35-39,3465,female,2021,
+Japan,40-44,3974,female,2021,
+Japan,45-49,4749,female,2021,
+Japan,50-54,4386,female,2021,
+Japan,55-59,3906,female,2021,
+Japan,60-64,3677,female,2021,
+Japan,65-69,3979,female,2021,
+Japan,70-74,5057,female,2021,
+Japan,75-79,3875,female,2021,
+Japan,80-84,3303,female,2021,
+Japan,85-89,2553,female,2021,
+Japan,90-94,1467,female,2021,
+Japan,95+,690,female,2021,
+UnitedKingdom,0-4,1873,male,2021,
+UnitedKingdom,5-9,2105,male,2021,
+UnitedKingdom,10-14,2114,male,2021,
+UnitedKingdom,15-19,1925,male,2021,
+UnitedKingdom,20-24,2074,male,2021,
+UnitedKingdom,25-29,2271,male,2021,
+UnitedKingdom,30-34,2286,male,2021,
+UnitedKingdom,35-39,2186,male,2021,
+UnitedKingdom,40-44,2079,male,2021,
+UnitedKingdom,45-49,2061,male,2021,
+UnitedKingdom,50-54,2250,male,2021,
+UnitedKingdom,55-59,2234,male,2021,
+UnitedKingdom,60-64,1944,male,2021,
+UnitedKingdom,65-69,1642,male,2021,
+UnitedKingdom,70-74,1592,male,2021,
+UnitedKingdom,75-79,1181,male,2021,
+UnitedKingdom,80-84,758,male,2021,
+UnitedKingdom,85-89,435,male,2021,
+UnitedKingdom,90-94,175,male,2021,
+UnitedKingdom,95+,44,male,2021,
+UnitedKingdom,0-4,1777,male,2021,
+UnitedKingdom,5-9,2001,female,2021,
+UnitedKingdom,10-14,2010,female,2021,
+UnitedKingdom,15-19,1826,female,2021,
+UnitedKingdom,20-24,1956,female,2021,
+UnitedKingdom,25-29,2170,female,2021,
+UnitedKingdom,30-34,2265,female,2021,
+UnitedKingdom,35-39,2229,female,2021,
+UnitedKingdom,40-44,2113,female,2021,
+UnitedKingdom,45-49,2110,female,2021,
+UnitedKingdom,50-54,2330,female,2021,
+UnitedKingdom,55-59,2322,female,2021,
+UnitedKingdom,60-64,2030,female,2021,
+UnitedKingdom,65-69,1751,female,2021,
+UnitedKingdom,70-74,1743,female,2021,
+UnitedKingdom,75-79,1361,female,2021,
+UnitedKingdom,80-84,963,female,2021,
+UnitedKingdom,85-89,637,female,2021,
+UnitedKingdom,90-94,319,female,2021,
+UnitedKingdom,95+,120,female,2021,
+UnitedStates,0-4,9797,male,2021,
+UnitedStates,5-9,10509,male,2021,
+UnitedStates,10-14,11149,male,2021,
+UnitedStates,15-19,11263,male,2021,
+UnitedStates,20-24,11221,male,2021,
+UnitedStates,25-29,11634,male,2021,
+UnitedStates,30-34,11834,male,2021,
+UnitedStates,35-39,11377,male,2021,
+UnitedStates,40-44,10798,male,2021,
+UnitedStates,45-49,10183,male,2021,
+UnitedStates,50-54,10668,male,2021,
+UnitedStates,55-59,10695,male,2021,
+UnitedStates,60-64,10380,male,2021,
+UnitedStates,65-69,8949,male,2021,
+UnitedStates,70-74,6728,male,2021,
+UnitedStates,75-79,4526,male,2021,
+UnitedStates,80-84,2787,male,2021,
+UnitedStates,85-89,1562,male,2021,
+UnitedStates,90-94,695,male,2021,
+UnitedStates,95+,177,male,2021,
+UnitedStates,0-4,9366,male,2021,
+UnitedStates,5-9,10040,male,2021,
+UnitedStates,10-14,10614,male,2021,
+UnitedStates,15-19,10781,male,2021,
+UnitedStates,20-24,10798,male,2021,
+UnitedStates,25-29,11270,male,2021,
+UnitedStates,30-34,11580,male,2021,
+UnitedStates,35-39,11135,male,2021,
+UnitedStates,40-44,10719,male,2021,
+UnitedStates,45-49,10199,male,2021,
+UnitedStates,50-54,10719,male,2021,
+UnitedStates,55-59,11099,male,2021,
+UnitedStates,60-64,10950,male,2021,
+UnitedStates,65-69,9818,male,2021,
+UnitedStates,70-74,7844,male,2021,
+UnitedStates,75-79,5522,male,2021,
+UnitedStates,80-84,3656,male,2021,
+UnitedStates,85-89,2389,male,2021,
+UnitedStates,90-94,1143,male,2021,
+UnitedStates,95+,406,male,2021,
